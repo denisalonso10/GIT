@@ -102,7 +102,7 @@ On branch master
 nothing to commit, working tree clean
 ```
 
-`git add` pasa el archivo al área de preparación y `git commit` guarda esa preparación en el historial. Al final, `git status` dice `working tree clean`: no queda nada pendiente. El aviso `LF will be replaced by CRLF` es normal en Windows (cambia el tipo de salto de línea) y no es un error.
+`git add` pasa el archivo al área de preparación y `git commit` guarda esa preparación en el historial. Al final, `git status` dice `working tree clean`: no queda nada pendiente. 
 
 ## Modificar archivo
 
